@@ -21,5 +21,14 @@ A robust task management application executing core CRUD (Create, Read, Update, 
   * Engineered with defensive programming protocols (`try/except` blocks) to sanitize unpredictable user input and prevent fatal runtime crashes.
   * Utilizes dynamic zero-indexed logic to safely mark specific tasks as complete or remove them from memory.
 
+  ## 3. Dynamic QR Code Generator
+A lightweight automation tool that instantly converts user-provided URLs and text strings into custom, scannable QR code image files.
+
+* **Core Technologies:** Python, `qrcode` library, File I/O
+* **Key Features:**
+  * Dynamically generates high-quality `.png` images from real-time terminal input.
+  * Engineered with custom file-handling logic to safely organize outputs and prevent accidental file overwrites in local directories.
+  * Streamlines the process of sharing links and text-based data through instantly readable visual formats.
+
 ---
 *Developed by Eben | Spring 2026*
