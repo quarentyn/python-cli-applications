@@ -1,9 +1,7 @@
 # python-cli-applications
 A collection of secure CLI Applications including an encrypted password manager, a CRUD task manager, and a dynamic QR Code Generator
 
-# Python CLI Applications
-
-A collection of lightweight command-line interface (CLI) applications built in Python. These projects focus on secure data handling, core CRUD operations, and defensive programming principles.
+ These projects focus on secure data handling, core CRUD operations, and defensive programming principles.
 
 ## 1. Secure Password Verifier (Hashlib)
 A terminal-based authentication script demonstrating one-way cryptographic hashing and secure user input.
